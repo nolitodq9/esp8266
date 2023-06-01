@@ -44,7 +44,7 @@ Unha vez dentro descargamos o programa de Arduino abrindo o terminal eseguindo a
 //wifi Mobil
 #define MAX_INTENTOS 50
 #define WIFI_SSID "RoboticaMDQ"
-#define WIFI_PASS "pasar"
+#define WIFI_PASS "pasarMDQ"
 
 
 // MQTT
