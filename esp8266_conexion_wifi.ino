@@ -28,7 +28,7 @@ Unha vez dentro descargamos o programa de Arduino abrindo o terminal eseguindo a
      donde buscamos:
         - 
    
-   
+   */
  
 
 
