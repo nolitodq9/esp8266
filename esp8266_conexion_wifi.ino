@@ -24,9 +24,14 @@ Unha vez dentro descargamos o programa de Arduino abrindo o terminal eseguindo a
       
    - Neste punto xa temos creada a rede wifi dende a que conectarnos coa nosa tarxeta ESP8266.
    
-   - A continuación vamos crear o programa en Arduíno para facer que a tarxeta ESP8266 se poida conectar á nosa rede wifi
-     donde buscamos:
-        - 
+   En terceiro lugar accedemos a unha rede mqtth, que é un protocolo de mensaxería ao que nos conectamos para poder comunicarnos a través
+    de mensaxes entre distintos dispositivos conectados a ela.
+    
+    - Buscaríamos coa tarxeta Esp8266 conectarnos, para así poder enviar consignas dende o ordenador ou noso movil a través dunha aplicación. 
+    - Con elo e a librería servo intentaríamos manexar un servo, pero eu non cheguei a ese punto. Aínda así o código está escrito no meu GitHub.
+    
+    Autor: Manuel Domínguez Queiruga
+    Data: 02/06/2023
    
    */
  
